@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "644955498384",
+    "project_id": "mahis-adb17",
+    "storage_bucket": "mahis-adb17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644955498384:android:03e86f4d29d22c29b7b515",
+        "android_client_info": {
+          "package_name": "in.tech.mahis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644955498384-03318h49q0mlehjee21ok53mqd72ich4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tech.mahis",
+            "certificate_hash": "25afa55579821662465c9193218e6c75284f0d8e"
+          }
+        },
+        {
+          "client_id": "644955498384-bk7teluk5073rno6g0j1dlgvq6u1rkja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0W3yANzGE8fHZjVSwcinTo5l8d8OQNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644955498384-bk7teluk5073rno6g0j1dlgvq6u1rkja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644955498384-hftl5lus3d9snedjqu2oh1cquvg02dl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tech.groceryg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
